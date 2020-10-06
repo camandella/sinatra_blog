@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: sinatra-blog-development
+test:
+  adapter: postgresql
+  database: sinatra-blog-test
+production:
+  adapter: postgresql
+  database: sinatra-blog-production
